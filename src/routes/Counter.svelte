@@ -1,6 +1,6 @@
 <script>
 	import { spring } from 'svelte/motion';
-	import fs from 'file-system'
+	import{ fs } from 'file-system'
 	import { MailParser } from 'mailparser'
 
 // const mailpath = process.argv[2];
